@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Sayskh">
-   🍉 Hio
-  </p>
+# 🍉 Hio
 
 **`(Developer/Motion Graphic Designer)`**
 
