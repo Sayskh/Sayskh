@@ -26,5 +26,6 @@ Hi, I'm Sayyid Sakhiy Sulaeman also known as Hio. I'm a Indie student developer 
 ### 🎁 Donasi
 <p>
       <a href="https://tako.id/Hioaja"><img alt="Tako" style="width:70px" src="https://assets.tako.id/logo.png"></a>
+      <a href="https://saweria.co/hioo"><img alt="Tako" style="width:70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUzcZXilGXIwxKL4xZ9O1BGL3jz6xwVESp7bkYPchnevJB-PHA8XhV1Cr&s=10"></a>
 
 </p>
