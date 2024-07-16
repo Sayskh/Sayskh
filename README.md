@@ -1,4 +1,4 @@
-# 🤍 Hio
+# 🖌 Hio
 
 **`(Developer/Motion Graphic Designer)`**
 
