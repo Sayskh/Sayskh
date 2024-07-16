@@ -21,3 +21,10 @@ Hi, I'm Sayyid Sakhiy Sulaeman also known as Hio. I'm a Indie student developer 
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
+---
+
+### 🎁 Donasi
+<p>
+      <a href="https://tako.id/Hioaja"><img alt="Tako" src="https://assets.tako.id/logo.png"></a>
+
+</p>
