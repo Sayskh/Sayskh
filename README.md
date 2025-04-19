@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Sayyid Sakhiy Sulaeman a.k.a <a href="https://github.com/Sayskh">Hio</a></h1>
 
-<p align="left">Hi, I'm Sayyid Sakhiy Sulaeman, a final-year high school student currently in 12th grade. I'm passionate about technology and programming, and I plan to continue my studies in computer science. I'm currently focusing on learning HTML, CSS, JavaScript, and basic programming skills. I’m also skilled in creative software, and I enjoy working on visual and multimedia projects</p>
+<p align="left">Hi, I'm Sayyid Sakhiy Sulaeman, a final-year high school student currently in 12th grade. I'm passionate about technology and creativity. I'm currently focusing on learning HTML, CSS, JavaScript, and motion graphics skills. I’m also skilled in creative software, and I enjoy working on visual and multimedia projects</p>
 
 <h2 align="left">🌸 I code with</h2>
 
